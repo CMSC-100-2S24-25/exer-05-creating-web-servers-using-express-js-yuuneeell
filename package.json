@@ -1,0 +1,25 @@
+{
+  "name": "exer-05-creating-web-servers-using-express-js-yuuneeell",
+  "version": "1.0.0",
+  "description": "Exercise 05 - Web Server with ExpressJS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMSC-100-2S24-25/exer-05-creating-web-servers-using-express-js-yuuneeell.git"
+  },
+  "author": "yuuneeell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMSC-100-2S24-25/exer-05-creating-web-servers-using-express-js-yuuneeell/issues"
+  },
+  "homepage": "https://github.com/CMSC-100-2S24-25/exer-05-creating-web-servers-using-express-js-yuuneeell#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "needle": "^3.3.1"
+  }
+}
